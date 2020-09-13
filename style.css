@@ -1,0 +1,12 @@
+.wrapper {
+    height: 100vw;
+    width: 93.75%;
+    background: url(blow2.png);
+    background-size: cover;
+    margin-left: 6.25%;
+}
+
+.header {
+    height: 250px;
+    background: red;
+}
